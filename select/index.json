@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "caribou",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-28T09:21:38.079246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little By Little (Caribou Rmx)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/01_Little_By_Little_(Caribou_Rmx)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "caribou",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_caribou_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Caribou",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/03_Caribou_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Caribou",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/04_Caribou_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Track ID Anyone? (feat. Caribou)",
+      "artist": "DJ Koze",
+      "has_synced": true,
+      "path": "select/05_Track_ID_Anyone__(feat._Caribou)_DJ_Koze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Caribou Chaser - Jazzy Jam",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/06_Caribou_Chaser_-_Jazzy_Jam_Earth,_Wind_&_Fire.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Caribou",
+      "artist": "Frank Black",
+      "has_synced": false,
+      "path": "select/07_Caribou_Frank_Black.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little By Little - Caribou Rmx",
+      "artist": "Radiohead/Caribou",
+      "has_synced": false,
+      "path": "select/08_Little_By_Little_-_Caribou_Rmx_Radiohead_Caribou.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Caribou",
+      "artist": "The Pixies",
+      "has_synced": true,
+      "path": "select/09_Caribou_The_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Caribou (Live)",
+      "artist": "Pixies",
+      "has_synced": false,
+      "path": "select/10_Caribou_(Live)_Pixies.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "caribou",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_caribou_米津玄師.txt"
+    }
+  ]
+}
